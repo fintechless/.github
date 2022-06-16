@@ -6,4 +6,4 @@ _The Serverless Platform for Financial Institutions and Fintechs_.
 
 Quick Links: [Fintechless API](https://github.com/fintechless/ftl-api) |
 [Fintechless Manager](https://github.com/fintechless/ftl-mgr) |
-[Fintechless Roadmap](https://github.com/fintechless/ftl-api/blob/main/ROADMAP.md)
+[Fintechless Roadmap](https://github.com/fintechless/.github/blob/main/ROADMAP.md)

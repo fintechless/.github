@@ -2,6 +2,7 @@ name: Request a Feature
 description: Please provide a clear and concise description of what the feature is
 labels: ["enhancement"]
 title: "[FEATURE]: "
+assignees: ["eistrati"]
 
 body:
   - type: markdown
