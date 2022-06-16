@@ -11,6 +11,8 @@ resources:
 
 * [Questions tagged 'fintechless' on
 Stack Overflow](https://stackoverflow.com/questions/tagged/fintechless)
+* [Fintechless Slack Community](https://fintechless.slack.com/)
+  * To register: [nodeslackers.com](https://join.slack.com/t/fintechless/signup)
 
 GitHub issues are for tracking enhancements and bugs, not general support.
 
